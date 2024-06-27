@@ -1,0 +1,4 @@
+#nodejs app ignore files
+node_modules
+npm-debug.log
+.vscode
